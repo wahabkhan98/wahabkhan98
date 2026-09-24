@@ -1,4 +1,4 @@
-## :wave: Hi there,
+## :wave: Hi there
 
 I'm Wahab Khan, a Mechanical engineer moving into product. I like turning rough ideas into shipped products.
 
